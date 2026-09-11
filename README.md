@@ -1,3 +1,3 @@
 # New_project
-my info
-This is my Personal Information 
+My Info
+This Is My Personal Information 
